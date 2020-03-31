@@ -7,6 +7,7 @@ namespace conflictos
         static void Main(string[] args)
         {
             Console.WriteLine("Soy Fede");
+            Console.WriteLine("Soy Nico");
         }
     }
 }
