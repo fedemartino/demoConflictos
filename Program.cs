@@ -6,7 +6,7 @@ namespace conflictos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Soy Nico");
         }
     }
 }
