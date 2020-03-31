@@ -6,11 +6,9 @@ namespace conflictos
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             Console.WriteLine("Soy Fede");
-=======
             Console.WriteLine("Soy Edu!!!");
->>>>>>> edu
+            Console.WriteLine("Soy Nico");
         }
     }
 }
